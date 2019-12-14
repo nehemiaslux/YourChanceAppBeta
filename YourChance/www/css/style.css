@@ -1,7 +1,7 @@
 /* Empty. Add your own CSS if you like */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
-@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Anton|PT+Sans+Narrow&display=swap');
+
+
 
 .padding{
   padding: 0 !important;
@@ -81,54 +81,5 @@
   color: red;
 }
 
-.estyh5{
-  color: #151965;
-  font-weight: bold;
-  font-family: 'Anton', sans-serif;
-  line-height : 15px;
-  margin-top: 5%  !important;
-}
 
 
-.stypcar{
-  color: #46b5d1;
-  font-size: 15px;
-  line-height :15px;
-  font-family: 'PT Sans Narrow', sans-serif;
-}
-
-.textcar{
-  border: 3px solid black;
-  padding: 1% !important; 
-  border-radius: 0px 20px 0px 20px;
-  background: white;
-}
-
-
-.cont2{
-  padding: 0 !important;
-  margin:0 !important;
-}
-
-
-.h2info{
-  font-family: 'PT Sans Narrow', sans-serif;
-  font-size: 25px;
-  padding-top: 5%;
-
-}
-
-.jum{
-  margin-bottom: 0 !important;
-}
-
-.colorback{
-  background:#e9ecef; 
-}
-
-.pad{
-  margin: 5% !important;
-}
-.padd{
-  margin: auto !important;
-}

@@ -44,6 +44,7 @@ angular.module('starter.controllers', [])
 
 .controller('CurriculumCtrl', function($scope, $stateParams, Chats) {
   //codigo de curriculum
+  
 })
 
 .controller('AccountCtrl', function($scope) {
